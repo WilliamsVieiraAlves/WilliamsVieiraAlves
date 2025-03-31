@@ -18,6 +18,7 @@
   
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/WilliamsVieiraAlves/WilliamsVieiraAlves/output/dist/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/WilliamsVieiraAlves/WilliamsVieiraAlves/main/dist/github-snake.svg)
+
 
 
