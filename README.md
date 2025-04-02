@@ -1,13 +1,16 @@
 ## 🔥 Fala, dev! Eu sou o Williams! 🚀
 📌 Aprendendo programação e apaixonado por tecnologia! 🚀🔥🎮
-
+## Habilidades
 <div style="display: inline_block"><br>
   <img align="center" alt="Will-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Will-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Will-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Will-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilliamsVieiraAlves&count_private=false&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
   ##
  ![Snake animation](https://raw.githubusercontent.com/WilliamsVieiraAlves/WilliamsVieiraAlves/main/dist/github-snake.svg)
 <div> 
@@ -17,6 +20,7 @@
   <a href="https://www.linkedin.com/in/williams-vieira-alves-309ba9209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
 
 
 
