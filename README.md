@@ -1,8 +1,5 @@
-<div style="display:flex; width: 100%; justify-content: flex-start">
-  <a href="https://git.io/typing-svg">
- <p>👋</p>
-    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=ffffff&lines=Oi,%20+Eu+sou+o+Williams.;Seja+muito+bem+vindo!+:)" alt="Typing SVG" style="font-size: 150px" >
-  </a>
+<div style="display: flex; align-items: center;">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&lines=Oi,%20+Eu+sou+o+Williams.;Seja+muito+bem+vindo!+:)" alt="Typing SVG">
 </div>
 
 ## Sobre Mim
