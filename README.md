@@ -4,6 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=ffffff&lines=Oi,%20+Eu+sou+o+Williams.;Seja+muito+bem+vindo!+:)" alt="Typing SVG" style="font-size: 150px" >
   </a>
 </div>
+##Sobre Mim
 📌 Aprendendo programação e apaixonado por tecnologia! 🚀🔥🎮
 
 ## Estudando
